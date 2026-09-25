@@ -12,12 +12,15 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
+.test-tmp/
+tests/pytest-temp/
 .ruff_cache/
 .coverage
 htmlcov/
 
 # Competition runtime artifacts
 case-set.json
+l3b-inputs-v1/
 inputs/*
 !inputs/.gitkeep
 outputs/*
